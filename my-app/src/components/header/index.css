@@ -1,0 +1,23 @@
+
+.show-grid{
+    width: 100%;
+    border: 1px solid blue;
+    background-color: blue;
+    height: 70px;
+}
+
+.logo {
+    margin-left: 20px;
+    margin-top:20px;
+    width: 130px;
+}
+.right-arrow{
+    width: 18px;
+    margin-top: 23px;
+    margin-left: -140px;
+}
+.gecko {
+    width: 230px;
+    margin-left: -400px;
+    margin-top: -7px;
+}
